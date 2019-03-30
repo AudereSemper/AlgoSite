@@ -1,0 +1,23 @@
+.chart{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 10px 15px 10px;
+    border: 1px solid white;
+    margin: 5px;
+    transition-timing-function: ease;
+    transition-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
+}
+
+.sortButton{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    display: block;
+}
